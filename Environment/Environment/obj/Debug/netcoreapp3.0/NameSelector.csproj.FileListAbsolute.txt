@@ -1,0 +1,15 @@
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\NameSelector.exe
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\NameSelector.deps.json
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\NameSelector.runtimeconfig.json
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\NameSelector.runtimeconfig.dev.json
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\NameSelector.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\NameSelector.pdb
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\bin\Debug\netcoreapp3.0\WebDriver.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\obj\Debug\netcoreapp3.0\NameSelector.csprojAssemblyReference.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\obj\Debug\netcoreapp3.0\NameSelector.AssemblyInfoInputs.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\obj\Debug\netcoreapp3.0\NameSelector.AssemblyInfo.cs
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\obj\Debug\netcoreapp3.0\NameSelector.csproj.CopyComplete
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\obj\Debug\netcoreapp3.0\NameSelector.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\Environment\obj\Debug\netcoreapp3.0\NameSelector.pdb

@@ -1,0 +1,7 @@
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\bin\Debug\netcoreapp3.0\IDSelector.exe
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\bin\Debug\netcoreapp3.0\WebDriver.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\obj\Debug\netcoreapp3.0\IDSelector.csprojAssemblyReference.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\obj\Debug\netcoreapp3.0\IDSelector.AssemblyInfoInputs.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\obj\Debug\netcoreapp3.0\IDSelector.AssemblyInfo.cs
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\obj\Debug\netcoreapp3.0\IDSelector.csproj.CopyComplete

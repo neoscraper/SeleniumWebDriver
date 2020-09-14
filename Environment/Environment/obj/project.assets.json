@@ -5230,9 +5230,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\Self Projects\\SeleniumWebDriver\\Environment\\Environment\\Environment.csproj",
-      "projectName": "Environment",
-      "projectPath": "D:\\School\\Self Projects\\SeleniumWebDriver\\Environment\\Environment\\Environment.csproj",
+      "projectUniqueName": "D:\\School\\Self Projects\\SeleniumWebDriver\\Environment\\Environment\\NameSelector.csproj",
+      "projectName": "NameSelector",
+      "projectPath": "D:\\School\\Self Projects\\SeleniumWebDriver\\Environment\\Environment\\NameSelector.csproj",
       "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
       "outputPath": "D:\\School\\Self Projects\\SeleniumWebDriver\\Environment\\Environment\\obj\\",
       "projectStyle": "PackageReference",
