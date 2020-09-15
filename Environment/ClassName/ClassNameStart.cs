@@ -15,25 +15,33 @@ class NameStart
 
         IWebDriver driver = new ChromeDriver();
         driver.Navigate().GoToUrl(url);
-        IWebElement cssPathElement = driver.FindElement(By.CssSelector(cssPath));
-        IWebElement xPathElement = driver.FindElement(By.XPath(xPath));
+        IWebElement cssPathElement;
+        IWebElement xPathElement;
         //cssPath check
-        if (cssPathElement.Displayed)
+        try
         {
-            ResultMessage("CSS Path Element Visible", cssPathElement.Displayed);
+            cssPathElement = driver.FindElement(By.CssSelector(cssPath));
+            if (cssPathElement.Displayed)
+            {
+                ResultMessage("CSS Path Element Visible", true);
+            }
         }
-        else
+        catch (NoSuchElementException)
         {
-            ResultMessage("CSS Path Element not visible", cssPathElement.Displayed);
+            ResultMessage("CSS Path Element not visible", false);
         }
         //xPath check
-        if (xPathElement.Displayed)
+        try
         {
-            ResultMessage("X Path Element Visible", xPathElement.Displayed);
+            xPathElement = driver.FindElement(By.XPath(xPath));
+            if (xPathElement.Displayed)
+            {
+                ResultMessage("X Path Element Visible", true);
+            }
         }
-        else
+        catch (NoSuchElementException)
         {
-            ResultMessage("X Path Element not visible", xPathElement.Displayed);
+            ResultMessage("X Path Element not visible", false);
         }
         driver.Quit();
     }
