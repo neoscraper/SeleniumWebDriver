@@ -6,6 +6,7 @@ namespace ID_Selector
 {
     class IDStart
     {
+        //For selecting elements by ID
         static void Main(string[] args)
         {
             //variables

@@ -5,6 +5,7 @@ using System.Threading;
 
 class NameStart
 {
+    //Getting elements based on name
     static void Main()
     {
         //variables

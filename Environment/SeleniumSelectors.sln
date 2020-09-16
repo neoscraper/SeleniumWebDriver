@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameSelector", "Environment
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDSelector", "ID Selector\IDSelector.csproj", "{4D0EFD2B-E766-41F7-B0D5-421436AE0E77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassName", "ClassName\ClassName.csproj", "{09AE2DB1-96A4-4615-8C11-E065432B7D3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PathSelector", "ClassName\PathSelector.csproj", "{09AE2DB1-96A4-4615-8C11-E065432B7D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputText", "InputText\InputText.csproj", "{F700706D-386E-4F2E-A7AE-2B6FAA8C1A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBox", "CheckBox\CheckBox.csproj", "{AE590539-ED3E-457F-9B1B-E86A7A2C98D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{09AE2DB1-96A4-4615-8C11-E065432B7D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09AE2DB1-96A4-4615-8C11-E065432B7D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09AE2DB1-96A4-4615-8C11-E065432B7D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F700706D-386E-4F2E-A7AE-2B6FAA8C1A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F700706D-386E-4F2E-A7AE-2B6FAA8C1A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F700706D-386E-4F2E-A7AE-2B6FAA8C1A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F700706D-386E-4F2E-A7AE-2B6FAA8C1A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE590539-ED3E-457F-9B1B-E86A7A2C98D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE590539-ED3E-457F-9B1B-E86A7A2C98D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE590539-ED3E-457F-9B1B-E86A7A2C98D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE590539-ED3E-457F-9B1B-E86A7A2C98D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

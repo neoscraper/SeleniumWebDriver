@@ -5,6 +5,7 @@ using System.Threading;
 
 class NameStart
 {
+    //Getting Elements based on paths
     static void Main()
     {
         //variables
