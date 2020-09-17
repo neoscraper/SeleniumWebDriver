@@ -1,0 +1,8 @@
+D:\School\Self Projects\SeleniumWebDriver\Environment\DropDown\bin\Debug\netcoreapp3.0\DropDown.exe
+D:\School\Self Projects\SeleniumWebDriver\Environment\DropDown\obj\Debug\netcoreapp3.0\DropDown.csprojAssemblyReference.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\DropDown\obj\Debug\netcoreapp3.0\DropDown.AssemblyInfoInputs.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\DropDown\obj\Debug\netcoreapp3.0\DropDown.AssemblyInfo.cs
+D:\School\Self Projects\SeleniumWebDriver\Environment\DropDown\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\DropDown\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\DropDown\bin\Debug\netcoreapp3.0\WebDriver.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\DropDown\obj\Debug\netcoreapp3.0\DropDown.csproj.CopyComplete
