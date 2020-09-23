@@ -1,0 +1,4 @@
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\bin\Debug\netcoreapp3.0\ID Selector.exe
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\obj\Debug\netcoreapp3.0\ID Selector.csprojAssemblyReference.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\obj\Debug\netcoreapp3.0\ID Selector.AssemblyInfoInputs.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\ID Selector\obj\Debug\netcoreapp3.0\ID Selector.AssemblyInfo.cs

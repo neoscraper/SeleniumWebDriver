@@ -1,0 +1,15 @@
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\ClassName.exe
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\obj\Debug\netcoreapp3.0\ClassName.csprojAssemblyReference.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\obj\Debug\netcoreapp3.0\ClassName.AssemblyInfoInputs.cache
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\obj\Debug\netcoreapp3.0\ClassName.AssemblyInfo.cs
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\ClassName.deps.json
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\ClassName.runtimeconfig.json
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\ClassName.runtimeconfig.dev.json
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\ClassName.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\ClassName.pdb
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\WebDriver.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\obj\Debug\netcoreapp3.0\ClassName.csproj.CopyComplete
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\obj\Debug\netcoreapp3.0\ClassName.dll
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\obj\Debug\netcoreapp3.0\ClassName.pdb
+D:\School\Self Projects\SeleniumWebDriver\Environment\ClassName\bin\Debug\netcoreapp3.0\WebDriver.Support.dll

@@ -1,0 +1,15 @@
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\PathSelector.exe
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\PathSelector.deps.json
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\PathSelector.runtimeconfig.json
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\PathSelector.runtimeconfig.dev.json
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\PathSelector.dll
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\PathSelector.pdb
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\bin\Debug\netcoreapp3.0\WebDriver.dll
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\obj\Debug\netcoreapp3.0\PathSelector.csprojAssemblyReference.cache
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\obj\Debug\netcoreapp3.0\PathSelector.AssemblyInfoInputs.cache
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\obj\Debug\netcoreapp3.0\PathSelector.AssemblyInfo.cs
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\obj\Debug\netcoreapp3.0\PathSelector.csproj.CopyComplete
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\obj\Debug\netcoreapp3.0\PathSelector.dll
+D:\School\Self Projects\SeleniumWebDriver\SelectorsAndElements\ClassName\obj\Debug\netcoreapp3.0\PathSelector.pdb
